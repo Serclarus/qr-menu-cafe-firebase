@@ -1,0 +1,41 @@
+{
+  "name": "qr-menu-netlify",
+  "version": "1.0.0",
+  "description": "QR Menu website for cafe using Netlify",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build completed'",
+    "dev": "netlify dev",
+    "deploy": "netlify deploy --prod",
+    "serve": "netlify dev",
+    "test": "echo 'No tests specified'",
+    "lint": "echo 'No linting configured'"
+  },
+  "keywords": [
+    "qr-menu",
+    "cafe",
+    "netlify",
+    "pwa",
+    "turkish",
+    "restaurant"
+  ],
+  "author": "THEE BBUBB CAFE",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Serclarus/QR_Menu_Netifly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Serclarus/QR_Menu_Netifly/issues"
+  },
+  "homepage": "https://github.com/Serclarus/QR_Menu_Netifly#readme"
+}
