@@ -1,0 +1,16 @@
+{
+  "name": "THEE BBUBB CAFE - Menü",
+  "short_name": "BBUBB Menü",
+  "description": "QR Menü - Kafe Mobil Menü Sistemi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00BFFF",
+  "icons": [
+    {
+      "src": "icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ]
+}
