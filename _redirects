@@ -1,8 +1,0 @@
-# API redirects
-/api/* /.netlify/functions/api/:splat 200
-
-# Admin panel
-/admin /admin/index.html 200
-
-# SPA fallback
-/* /index.html 200
